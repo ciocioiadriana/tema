@@ -1,0 +1,79 @@
+Root element :student
+----------------------------
+
+Current Element :student
+ID : 1
+Nume : Popa
+Prenume : Laurentiu
+Grupa : CR 2.1
+Medie : 8.0
+
+Current Element :student
+ID : 1
+Nume : Popa
+Prenume : Laurentiu
+Grupa : CR 2.1
+Medie : 8.0
+
+Current Element :student
+ID : 2
+Nume : Ionescu
+Prenume : Ionut
+Grupa : CE 2.2
+Medie : 7.2
+
+Current Element :student
+ID : 3
+Nume : Popescu
+Prenume : Stefan Alexandru
+Grupa : CR 2.2
+Medie : 8.1
+
+Current Element :student
+ID : 4
+Nume : Panait 
+Prenume : Ioana
+Grupa : CR 2.1
+Medie : 9.0
+
+Current Element :student
+ID : 5
+Nume : Gadea
+Prenume : Mihai-Petre
+Grupa : CR 2.2
+Medie : 8.89
+
+Current Element :student
+ID : 6
+Nume : Negru
+Prenume : Doina Bianca
+Grupa : CE 2.1
+Medie : 6.9
+
+Current Element :student
+ID : 7
+Nume : Dragulescu
+Prenume : Adriana Elena
+Grupa : CR 2.1
+Medie : 9.1
+
+Current Element :student
+ID : 8
+Nume : Georgescu
+Prenume : Roxana Madalina
+Grupa : CR 2.1
+Medie : 8.5
+
+Current Element :student
+ID : 9
+Nume : Petrescu
+Prenume : Mihnea
+Grupa : CR 2.1
+Medie : 8.78
+
+Current Element :student
+ID : 10
+Nume : Popescu
+Prenume : Liviu-Andrei
+Grupa : CE 2.2
+Medie : 9.0

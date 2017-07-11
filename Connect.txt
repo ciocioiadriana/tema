@@ -1,0 +1,72 @@
+Root element :biblioteca
+----------------------------
+
+Current Element :biblioteca
+Titlul : Inainte sa te cunosc
+Autor : Jojo Moyes
+Categoria : Romantica
+Editura : LITERA
+Numar_Raft : 5
+
+Current Element :biblioteca
+Titlul : Inainte sa te cunosc
+Autor : Jojo Moyes
+Categoria : Romantica
+Editura : LITERA
+Numar_Raft : 5
+
+Current Element :biblioteca
+Titlul : Micul Print
+Autor : Antoine de Saint-Exupery
+Categoria : Literatura Universala
+Editura : REGIS
+Numar_Raft : 50
+
+Current Element :biblioteca
+Titlul : Povesti cu talc
+Autor : Petre Ispirescu
+Categoria : Literatura Romana
+Editura : REGIS
+Numar_Raft : 143
+
+Current Element :biblioteca
+Titlul : Maitreyi 
+Autor : Mircea Eliade
+Categoria : Literatura Romana
+Editura : TANA
+Numar_Raft : 10
+
+Current Element :biblioteca
+Titlul : Povestea Faridei 
+Autor : Farida Khalaf
+Categoria : Memorii Jurnal
+Editura : RAO
+Numar_Raft : 2
+
+Current Element :biblioteca
+Titlul : Amintiri din copilarie
+Autor : Ion Creanga
+Categoria : Literatura Romana
+Editura : REGIS
+Numar_Raft : 54
+
+Current Element :biblioteca
+Titlul : Noul Cod Rutier 2017 pe intelesul tuturor 
+Autor : Marius Stanculescu
+Categoria :  Legislatie Rutiera
+Editura : TEOCORA
+Numar_Raft : 23
+
+Current Element :biblioteca
+Titlul : Baltagul
+Autor : Mihail Sadoveanu
+Categoria : Literatura Romana
+Editura : MIHAIL SADOVEANU
+Numar_Raft : 2
+
+Current Element :biblioteca
+Titlul : Poezii
+Autor : Mihai Eminescu
+Categoria : Literatura Romana
+Editura : REGIS
+Numar_Raft : 4

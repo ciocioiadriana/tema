@@ -1,0 +1,79 @@
+Root element :angajat
+----------------------------
+
+Current Element :angajat
+Nume : Costea
+Prenume : Ion
+Departament : Contabilitate si financiar
+Varsta : 39
+Salariu : 1500.0
+
+Current Element :angajat
+Nume : Costea
+Prenume : Ion
+Departament : Contabilitate si financiar
+Varsta : 39
+Salariu : 1500.0
+
+Current Element :angajat
+Nume : Panait 
+Prenume : George
+Departament : Resurse umane
+Varsta : 28
+Salariu : 2200.0
+
+Current Element :angajat
+Nume : Baciu
+Prenume : Andrei
+Departament : IT
+Varsta : 26
+Salariu : 3000.0
+
+Current Element :angajat
+Nume : Chirila
+Prenume : Alexandru
+Departament : Vanzari externe
+Varsta : 31
+Salariu : 1800.0
+
+Current Element :angajat
+Nume : Ionescu
+Prenume : Ioana
+Departament : Receptie si depozitare
+Varsta : 25
+Salariu : 1500.0
+
+Current Element :angajat
+Nume : Popescu
+Prenume : Adriana
+Departament : Director general
+Varsta : 40
+Salariu : 5500.0
+
+Current Element :angajat
+Nume : Ivanov
+Prenume : Ionut
+Departament : Administratie
+Varsta : 32
+Salariu : 2000.0
+
+Current Element :angajat
+Nume : Dinescu
+Prenume : Dumitru
+Departament : Transport
+Varsta : 28
+Salariu : 1500.0
+
+Current Element :angajat
+Nume : Voica
+Prenume : Aurelia
+Departament : Director economic
+Varsta : 45
+Salariu : 3000.0
+
+Current Element :angajat
+Nume : Staicu
+Prenume : Ionut-Daniel
+Departament : Transport
+Varsta : 26
+Salariu : 1500.0
